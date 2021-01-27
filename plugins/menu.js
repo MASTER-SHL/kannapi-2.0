@@ -32,20 +32,17 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       .replace(/%week/g, week)
       .replace(/%date/g, date)
       .replace(/%time/g, time): `
-🤖═〘 క ɦ ℓ__v¹ 〙BOT  ═🤖
-█▀█ █▀ ▀ █▀ ▀ █▀█ █
-█▄█ █▀ █ █▄ █ █▀█ █▄
-   Creator
-  🤞🏻•••••🤞🏻
+🧟✪〘 *LUCIFER BOT* 〙✪🧟
+       Creator
 ╭══•›「 *INTRO* 」
 │
-│Nama  :SHAHUL HAMEED  
-│phone :919645577195
-│Insta :s_h_l__royalmaster
-│Status:🔥🤙
+│Nama  :SMARAN KUTTU
+│phone :917994356623
+│Insta :2003____PSY
+│Status: Active
 │Gender:MALE
-│        Wa/only
-│   Wa.me/919645577195
+│       contact me
+│   Wa.me/917994356623
 ╰══════════════
 Hi, ${name} 👋
 Exp: ${exp}
@@ -100,18 +97,18 @@ How to Add XP:
 ╠➥ ${_p}mutechat group
 ║
 ╠═〘 ADVERTISEMENT 〙 ═
-╠➥ Instagram: https://instagram.com/s_h_l__royalmaster?igshid=5r91qr6aoh7b
-╠➥ YᴏᴜTᴜʙᴇ: https://youtube.com/channel/UCC8P1xSDECr5URXD5bMrkFQ
+╠➥ Instagram: https://instagram.com/2003____psy
+╠➥ YᴏᴜTᴜʙᴇ: https://youtube.com/channel/UCETyZkEQbyLIoDgI1e5SmAA
 ║
 ╠═〘 Info Bot 〙 ═
-╠➥ Name : ═〘 క ɦ ℓ__v¹ 〙BOT  ═
+╠➥ Name : ✪〘 *LUCIFER BOT* 〙✪
 ╠➥ Coded using * Nano * on Android \\ w Termux
 ╠➥ Request? wa.me//+919645577195
 ╠═════
 ║ Advanced:
 ║  > return m
 ║
-╠══〘 క ɦ ℓ__v¹ 〙BOT  ═⭐
+╠══https://github.com/MASTER-SHL/Shl_v1/compare/main...smaran007:patch-2
 `.trim()
     conn.reply(m.chat, {...preview, text}, m)
   }
